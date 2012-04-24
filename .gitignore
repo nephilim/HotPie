@@ -1,0 +1,8 @@
+.*
+*~
+!.gitignore
+*.bak
+*.class
+*.swp
+
+node_modules
