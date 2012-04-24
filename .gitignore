@@ -4,5 +4,6 @@
 *.bak
 *.class
 *.swp
+*.log
 
 node_modules
