@@ -9,6 +9,10 @@
   },
   "devDependencies": {
     "node-dev": "~0.2.2",
-    "mocha": "~1.0.1"
+    "mocha": "~1.0.1",
+    "request": "~2.9.202"
+  },
+  "scripts": {
+    "test": "./bin/test"
   }
 }
