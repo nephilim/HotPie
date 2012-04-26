@@ -5,6 +5,6 @@
 *.class
 *.swp
 *.log
-*.rdb
+dump.rdb
 
 node_modules
