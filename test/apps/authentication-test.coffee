@@ -1,5 +1,5 @@
 require '../_helper'
-express  = require 'express'
+express = require 'express'
 assert  = require 'assert'
 request = require 'request'
 app     = require '../../server'
