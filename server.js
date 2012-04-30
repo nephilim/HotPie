@@ -1,7 +1,7 @@
 
 /** * Module dependencies.
  */
-
+require('v8-profiler');
 require('coffee-script');
 
 var express = require('express'),
